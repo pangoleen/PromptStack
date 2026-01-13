@@ -1,0 +1,13 @@
+# Database (contains user data)
+db/*.json
+
+# Backups
+_backup/
+*.bak.*
+
+# Local settings
+.claude/settings.local.json
+
+# Python
+__pycache__/
+*.pyc

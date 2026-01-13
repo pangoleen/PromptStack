@@ -1,0 +1,11 @@
+{
+  "completed": [],
+  "stats": {
+    "total_completed": 0,
+    "this_week": 0,
+    "this_month": 0,
+    "longest_streak": 0,
+    "current_streak": 0,
+    "last_completion_date": null
+  }
+}

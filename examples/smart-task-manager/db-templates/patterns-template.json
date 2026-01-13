@@ -1,0 +1,18 @@
+{
+  "productivity_patterns": {
+    "most_productive_day": null,
+    "avg_tasks_per_day": 0,
+    "completion_rate": 0,
+    "common_blockers": [],
+    "peak_hours": []
+  },
+  "task_patterns": {
+    "avg_completion_time_by_priority": {
+      "high": null,
+      "medium": null,
+      "low": null
+    },
+    "most_common_tags": []
+  },
+  "weekly_history": []
+}
